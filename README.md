@@ -1,4 +1,4 @@
-![Designer & Developer (Software Engineer)](https://mir-s3-cdn-cf.behance.net/18383e72a685105e8cc4aa905ebddac0/dc80fade-2e5e-47af-ae6e-19f59e3dc138_rwc_0x121x1546x216x1546.jpg?h=625b2d206c7c20cfb95ba96c9e1bfe24)
+![Designer & Developer (Software Engineer)](https://github.com/atikscript/atikscript/blob/main/git-cover.jpg)
 ### 🚀 It's Atikur Rahman
 **Digital Craftsman (Developer/GraphicDesigner/Creator)**
 
